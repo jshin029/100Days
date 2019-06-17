@@ -17,3 +17,15 @@ Aditya's List of :b:ig Memes
 * Google Drive API
 * Watson Sentiment analysis API
 
+
+name        | date    | what did you do
+----------- | ------- | ---------------
+Aditya      | 6/15/19 | Configure .net framework for F#, wrote a couple ocaml functions
+
+
+name        | date    | what did you do
+----------- | ------- | ---------------
+Aditya      | 6/16/19 | Wrote some more ocaml functions
+
+
+
