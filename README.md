@@ -28,4 +28,9 @@ name        | date    | what did you do
 Aditya      | 6/16/19 | Wrote some more ocaml functions
 
 
+name        | date    | what did you do
+----------- | ------- | ---------------
+Aditya      | 6/17/19 | Created script to generate basic flask app so i don't have to rewrite the basics every time
+
+
 
