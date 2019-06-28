@@ -33,7 +33,7 @@ name        | date    | what did you do
 Aditya      | 6/17/19 | Created script to generate basic flask app so i don't have to rewrite the basics every time
 
 
-John's List of :b:iger Memes
+John's List of :b:igger Memes
 
 * C#
 * Threading
@@ -47,3 +47,4 @@ John's List of :b:iger Memes
 * Angular
 * Kernel
 * Rest
+* Perl
